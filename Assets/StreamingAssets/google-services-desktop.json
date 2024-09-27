@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "292035872056",
+    "firebase_url": "https://collect-data-fish-tank-default-rtdb.firebaseio.com",
+    "project_id": "collect-data-fish-tank",
+    "storage_bucket": "collect-data-fish-tank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292035872056:android:755666fc9aade469aaadcd",
+        "android_client_info": {
+          "package_name": "com.banhmistudio.FishTank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292035872056-l2kpvrtsjit6qk6q2k1rmvfsjes8cp26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgR4RTNk97FA1N0Ug-dI0UfdulThalmeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292035872056-l2kpvrtsjit6qk6q2k1rmvfsjes8cp26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
